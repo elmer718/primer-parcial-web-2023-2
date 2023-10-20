@@ -18,6 +18,8 @@ header img {
 footer{
     min-width: 80px;
     min-height: 80px;
+    display: flex;
+    flex-direction: row;
 }
 
 .foot-izq {
@@ -38,3 +40,6 @@ footer{
     font-size: 1.5em bold;
 }
 
+.foot-der p{
+    text-align: end;
+}
