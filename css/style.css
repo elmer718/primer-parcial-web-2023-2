@@ -43,3 +43,32 @@ footer{
 .foot-der p{
     text-align: end;
 }
+
+.main{
+    padding: 5px;
+}
+.not-prin{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    text-align: start;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main img{
+    max-width: 30%;
+    max-height: auto;
+    margin-right: 5px;
+}
+
+.not-seg{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.not-seg div{
+    margin: 5px;
+}
