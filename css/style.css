@@ -1,0 +1,14 @@
+header {
+    max-width: 1200px;
+    min-height: 120px;
+}
+
+.aside {
+    min-height: 400px;
+}
+
+footer{
+    min-width: 80px;
+    min-height: 80px;
+}
+
