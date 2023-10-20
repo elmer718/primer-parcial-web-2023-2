@@ -20,3 +20,21 @@ footer{
     min-height: 80px;
 }
 
+.foot-izq {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+}
+.foot-izq ul{
+    list-style: none;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    padding: 0px;
+}
+.foot-izq h3{
+    font-size: 1.5em bold;
+}
+
